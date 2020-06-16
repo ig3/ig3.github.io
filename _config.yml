@@ -43,7 +43,7 @@ logo:                  /assets/icons/icon.png
 # Duplication is necessary due to the `jekyll-feed`, `jekyll-seo-tag` plugin.
 author:
   name:                Ian Goodacre
-  email:               <mail@domain.tld>
+  email:               Ian.Goodacre@xtra.co.nz
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
