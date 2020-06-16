@@ -2,7 +2,7 @@
 layout: post
 title: anki-limitnew
 description: >
-  Repository anki-limitnew
+  Repository [anki-limitnew](https://github.com/ig3/anki-limitnew)
 categories: [post]
 tags: [repo, anki, plugin]
 ---
