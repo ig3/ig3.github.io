@@ -1,3 +1,7 @@
+This is the source for https://ig3.github.io
+
+This is my first trial of using GitHub Pages. The site is based on the Hidejack template.
+
 # Hydejack
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hydejack.svg)](https://badge.fury.io/rb/jekyll-theme-hydejack)
 
